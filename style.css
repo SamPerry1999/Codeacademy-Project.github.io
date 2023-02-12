@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "Zeyada";
+    src: url("https://fonts.googleapis.com/css2?family=Zeyada&display=swap.eot");
+    src: url("https://fonts.googleapis.com/css2?family=Zeyada&display=swap.eot") format("embedded-opentype"),
+         url("https://fonts.googleapis.com/css2?family=Zeyada&display=swap.woff2") format("woff2"),
+         url("https://fonts.googleapis.com/css2?family=Zeyada&display=swap.woff") format("woff"),
+         url("https://fonts.googleapis.com/css2?family=Zeyada&display=swap.ttf") format("Truetype");
+}
+
+header {
+  font-family: "Zeyada", cursive;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  background-color: grey;
+  padding: 20px;
+}
+
+.subtitle {
+  background-color: grey;
+}
+
+.body {
+    background-color: #5ab9ea;
+    text-align: center;
+    font-family: "Zeyada", cursive;
+    color: black;
+}
+
+.Skeler, .fav-song, .Lil-Peep, .Night-Lovell {
+  background-color: grey;
+}
+
+table, th, td, tfoot {
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: large;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-color: black;
+    font-weight: bold;
+  }
+
+.footer {
+  color: black;
+  background-color: grey;
+  font-weight: bold;
+  padding: 20px;
+}
+
+#Lil-peep {
+  width: 600px;
+  height: auto;
+}
+
+#Night-Lovell {
+  width: 600px;
+  height: auto;
+}
+
+#Skeler {
+  width: 600px;
+  height: auto;
+}
+
+.Info-on-music-artists {
+  background-color: grey;
+}
